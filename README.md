@@ -6,6 +6,8 @@ Best method of contact is via Twitter.
 
 ## I am currently maintaining these repos:
 
+- [Open-eCDP](https://github.com/TeamPopplio/Open-eCDP) - Open-source re-implementation of the eCDP DS game in LOVE2D.
+  - Help needed: I need 3DS and Switch testing.
 - [YTP-Plus/YTPPlusCLI](https://github.com/YTP-Plus/YTPPlusCLI) - ytp+ CLI tool in NodeJS
   - Help needed: I need to fix plugins and concatenation.
 - [YTP-Plus/YTPPlusStudio](https://github.com/YTP-Plus/YTPPlusStudio) - ytp+ cli UI frontend in LOVE2D.
@@ -13,7 +15,7 @@ Best method of contact is via Twitter.
 - [YTP-Plus.github.io](https://github.com/YTP-Plus/YTP-Plus.github.io) - Documentation for ytp+.
   - Help needed: I need to make a guide for plugin creation.
 - [tf-amongus](https://github.com/TeamPopplio/tf-amongus) - Among Us recreated in Team Fortress 2
-  - Help needed: I need a map in order to finish this gamemode...
+  - Help needed: I need a map in order to finish this gamemode.
   
 ## Other repos:
 
