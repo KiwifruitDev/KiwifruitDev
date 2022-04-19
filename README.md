@@ -7,9 +7,9 @@ Best method of contact is via Twitter.
 ## Links:
 
 - Websites
-  - [TidalVerse Discord (Community-focused)](https://discord.gg/XDVCmQzUGW)
+  - [kiwifruits.dev](https://kiwifruits.dev/)
+  - [TidalVerse Discord](https://discord.gg/XDVCmQzUGW)
   - [TidalVerse Website](http://tidalverse.dev/)
-  - [TidalDevs Discord (Development-focused)](https://discord.gg/8MMRsV4YpS)
   - [YTP+ Discord](https://discord.gg/8ppmspR6Wh)
   - [YTP+ Website](https://ytp-plus.github.io/)
 
