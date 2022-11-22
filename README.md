@@ -2,6 +2,8 @@
 
 Daily developer.
 
+Check out my [GitHub Pages](https://kiwifruitdev.github.io/)
+
 Best method of contact is either [Kiwifruit#2003](https://discord.com/users/728082336536854559) or [@KiwifruitDev](https://twitter.com/KiwifruitDev)
 
 ## Links:
