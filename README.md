@@ -1,19 +1,23 @@
-# KiwifruitDev
+<p align="center">
+  <a href="https://github.com/KiwifruitDev/">
+    <img width="50%" src="/branding/kiwifruitdev_logo_green.png"/>
+  </a>
+</p>
 
-> Hobby software developer
+<p align="center">
+  <a href="https://store.steampowered.com/app/2516360/Nonsensical_Video_Generator/">
+    <img src="https://raw.githubusercontent.com/KiwifruitDev/NonsensicalVideoGenerator/main/branding/4x/nvg-logo.png"/>
+  </a>
+</p>
 
-Best method of contact is either [KiwifruitDev#3059](https://discord.com/users/728082336536854559) or [@KiwifruitDev](https://twitter.com/KiwifruitDev).
+-----
+
+I am a hobby software developer.
+
+Best method of contact is through Discord as [@KiwifruitDev](https://discord.com/users/728082336536854559).
 
 ## Links:
 
-- Websites
-  - [kiwifruitdev.github.io](https://kiwifruitdev.github.io/)
-  - [Director's Cut Discord](https://discord.gg/3X3teNecWs)
-  - [YTP+ Discord](https://discord.gg/8ppmspR6Wh)
-  - [YTP+ Website](https://ytp-plus.github.io/)
-
-- Twitter
-  - [@KiwifruitDev](https://twitter.com/KiwifruitDev)
-  - [@SFMDirectorsCut](https://twitter.com/SFMDirectorsCut)
-  - [@ytpplus](https://twitter.com/ytpplus)
-  - [@LeafletGame](https://twitter.com/LeafletGame)
+- [Nonsensical Video Generator Discord](https://discord.com/servers/nonsensical-video-generator-641428540486844417)
+- [Nonsensical Video Generator on Steam](https://store.steampowered.com/app/2516360/Nonsensical_Video_Generator/)
+- [Director's Cut Discord](https://discord.gg/3X3teNecWs)
