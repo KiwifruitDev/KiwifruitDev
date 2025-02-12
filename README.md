@@ -1,23 +1,17 @@
-<p align="center">
-  <a href="https://github.com/KiwifruitDev/">
-    <img width="50%" src="/branding/kiwifruitdev_logo_green.png"/>
-  </a>
-</p>
-
 <div align="center">
-  <a href="https://github.com/KiwifruitDev/NonsensicalVideoGenerator">
-    <img src="https://raw.githubusercontent.com/KiwifruitDev/NonsensicalVideoGenerator/main/branding/4x/nvg-logo.png"/>
-  </a>
+  <a href="https://github.com/KiwifruitDev/"><img width="40%" src="/branding/kiwifruitDevLogo.png"/></a>
+  <br>
+  <a href="https://github.com/KiwifruitDev/NonsensicalVideoGenerator"><img src="https://raw.githubusercontent.com/KiwifruitDev/NonsensicalVideoGenerator/main/branding/4x/nvg-logo.png"/></a>
+  <br>
+  <a href="https://github.com/DirectorsCutMod/DirectorsCut"><img width="30%" src="https://i.imgur.com/71ceAUU.png"/></a>
 </div>
 
 -----
+Hi, I am a hobby software developer based in **Las Vegas, Nevada**.
 
-I am a hobby software developer.
+- [![Discord (@KiwifruitDev)](https://i.imgur.com/pgLNitm.png) Discord (@KiwifruitDev)](https://discord.com/users/728082336536854559)
+- [![YouTube (@KiwifruitDev)](https://i.imgur.com/76FljEy.png) YouTube (@KiwifruitDev)](https://youtube.com/@KiwifruitDev)
+- [![Bluesky (@kiwifruitdev.com)](https://i.imgur.com/nQy9dJ8.png) Bluesky (@kiwifruitdev.com)](https://bsky.app/profile/kiwifruitdev.com)
+- [![Steam (/id/KiwifruitDev)](https://i.imgur.com/SGL4zcJ.png) Steam (/id/KiwifruitDev)](https://steamcommunity.com/id/KiwifruitDev/)
 
-Best method of contact is through Discord as [@KiwifruitDev](https://discord.com/users/728082336536854559).
-
-## Links:
-
-- [Nonsensical Video Generator on Steam](https://store.steampowered.com/app/2516360/Nonsensical_Video_Generator/)
-- [Nonsensical Video Generator Issues & Wiki on GitHub](https://github.com/KiwifruitDev/NonsensicalVideoGenerator)
-- [Nonsensical Video Generator Discord](https://discord.com/servers/nonsensical-video-generator-641428540486844417)
+The **KiwifruitDev** logo and the **Director's Cut** logo were created by [FLARE145](https://flare145.com/).
