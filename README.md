@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://github.com/KiwifruitDev/"><img width="40%" src="/branding/kiwifruitDevLogo.png"/></a>
+  <a href="https://github.com/KiwifruitDev/"><img src="/branding/kiwifruitDevLogo.png"/></a>
   <br>
-  <a href="https://github.com/KiwifruitDev/NonsensicalVideoGenerator"><img src="https://raw.githubusercontent.com/KiwifruitDev/NonsensicalVideoGenerator/main/branding/4x/nvg-logo.png"/></a>
+  <a href="https://github.com/KiwifruitDev/NonsensicalVideoGenerator"><img src="https://raw.githubusercontent.com/KiwifruitDev/NonsensicalVideoGenerator/main/branding/8x/nvg-logo.png"/></a>
   <br>
-  <a href="https://github.com/DirectorsCutMod/DirectorsCut"><img width="30%" src="https://i.imgur.com/71ceAUU.png"/></a>
+  <a href="https://github.com/DirectorsCutMod/DirectorsCut"><img src="https://i.imgur.com/71ceAUU.png"/></a>
 </div>
 
 -----
